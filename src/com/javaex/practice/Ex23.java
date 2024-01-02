@@ -35,9 +35,9 @@ public class Ex23 {
 				if(y%2==0) {
 					if(year%2==0) {
 						System.out.println("건강검진해 아님");
-						System.out.println("암검사x");
 					}else {
 						System.out.println("건강검진해");
+						System.out.println("암검사x");
 					}
 				}else if(y%2==1) {
 					if(year%2==0) {
