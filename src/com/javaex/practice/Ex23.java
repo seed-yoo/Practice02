@@ -15,7 +15,6 @@ public class Ex23 {
 			(홀수해 태어난 사람이 올해가 홀수해 이면 검사대상 올해가 짝수해 이면 검사대상이 아닙니다.) 
 			⚫ 40세 이상의 경우에는 암 검사도 무료료 검사 받을 수 있습니다
 		 */
-		
 		Scanner sc = new Scanner(System.in);
 		
 		int y = 2023;
